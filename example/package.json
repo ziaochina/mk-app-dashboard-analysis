@@ -12,12 +12,12 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "mk-component": "^1.0.46",
-    "mk-meta-engine": "^1.0.60",
-    "mk-utils": "^1.0.52",
-    "moment": "^2.19.1",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "mk-component": "^1.0.58",
+    "mk-meta-engine": "^1.0.61",
+    "mk-utils": "^1.0.55",
+    "moment": "^2.19.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -33,11 +33,11 @@
     "css-loader": "^0.28.7",
     "file-loader": "^1.1.5",
     "html-webpack-plugin": "^2.30.1",
-    "less": "^2.7.2",
+    "less": "^2.7.3",
     "less-loader": "^4.0.5",
     "style-loader": "^0.19.0",
     "url-loader": "^0.6.2",
-    "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.4"
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
   }
 }
